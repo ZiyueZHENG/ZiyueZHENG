@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZiyueZHENG. I am a graduate student in Univeristy of Wisconsin Madison.
 - 👀 I’m interested in solving real world problems with statistical/computer science methods.
-- 🌱 I’m currently learning machine learning and web design.
+- 🌱 I’m currently learning machine learning.
 - 📫 You can reach me at zzheng232@wisc.edu
 
 <!---
