@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ZiyueZHENG. I am a graduate student in Univeristy of Wisconsin Madison.
-- 👀 I’m interested in solving real world problems with statistical/computer science methods.
-- 🌱 I’m currently learning machine learning.
-- 📫 You can reach me at zzheng232@wisc.edu
+- 👋 Hi, I’m @ZiyueZHENG. I am currently a Ph.D. student in Statistics at UC-Santa Cruz.
+- 👀 I’m passionate about using statistical methods to solve real world problems.
+- 🌱 My resarch interest are spatio-temporal analysis, casual inference and machine learning.
+- 📫 You can reach me at zzheng95@ucsc.edu
 
 <!---
 ZiyueZHENG/ZiyueZHENG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
