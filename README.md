@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZiyueZHENG(Patrick). I am currently a Ph.D. student in Statistics at UC-Santa Cruz.
 - 👀 I’m passionate about using statistical methods to solve real world problems.
-- 🌱 My resarch interests focus on Baysian Statistics and Machine Learning.
+- 🌱 My resarch interests focus on High Dimensional Statistics and Statistical Machine Learning.
 - 📫 You can reach me at zzheng95@ucsc.edu
 
 <!---
